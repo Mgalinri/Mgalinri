@@ -1,8 +1,8 @@
 ## Hi, I'm Maria
 
-🎓 CS Graduate | Aspiring Full-Stack Developer
-📫 Reach me : mgalindorivera1@gmail.com
-🔗 Portfolio: https://www.marielosgalindo.com
+🎓 CS Graduate | Aspiring Full-Stack Developer  
+📫 Reach me : mgalindorivera1@gmail.com  
+🔗 Portfolio: https://www.marielosgalindo.com  
 
 ## Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mgalinri&show_icons=true&theme=radical)
