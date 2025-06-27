@@ -6,8 +6,8 @@
 
 ## Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mgalinri&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mgalinri&layout=compact&theme=tokyonight)
-![GitHub Streak](https://streak-stats.demolab.com/?username=Mgalinri&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mgalinri&layout=compact&theme=tokyonight)  
+[![GitHub Streak](https://streak-stats.demolab.com?user=Mgalinri&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 
 ## 🛠️ Tech Stack
