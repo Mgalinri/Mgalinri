@@ -7,6 +7,8 @@
 ## 🛠️ Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=java,python,nodejs,react,figma,css,html,express,postgres,js&perline=5)](https://skillicons.dev)
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mgalinri&show_icons=true&theme=radical)
+
 ## 🚀 Projects
 
 ## 📄 Resume
