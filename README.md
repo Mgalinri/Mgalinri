@@ -3,7 +3,7 @@
 🎓 CS Graduate | Aspiring Full-Stack Developer  
 📫 Reach me : mgalindorivera1@gmail.com  
 🔗 Portfolio: https://www.marielosgalindo.com  
-[![GitHub Streak](https://streak-stats.demolab.com?user=Mgalinri&theme=dark&hide_border=true)]
+
 ## Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mgalinri&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mgalinri&layout=compact&theme=tokyonight)  
