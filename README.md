@@ -5,7 +5,7 @@
 🔗 Portfolio: https://www.marielosgalindo.com  
 
 ## Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mgalinri&layout=compact&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mgalinri&layout=compact&theme=tokyonight) 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mgalinri&show_icons=true&theme=radical)  
 
 
